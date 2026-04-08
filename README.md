@@ -17,6 +17,7 @@ A few months ago, I decided to move past standard tutorial projects and figure o
 * Integrated JDoodle Compiler API for secure, live Node.js code execution in the cloud.
 * Locked WebSockets to authenticated user IDs to prevent chat spoofing and handle "late-joiner" syncing.
 * Created persistent rooms using the Debounce Hook.
+* Engineered an ephemeral, real-time chat system tied to the secure backend socket map, ensuring instant, tamper-proof communication during live coding sessions.
 
 **Tunesta** — *A Cloud-Native Personal Music Library*
 * Built a media vault with persistent cloud storage (Cloudinary) and secure JWT Identity Management for complete user data isolation.
