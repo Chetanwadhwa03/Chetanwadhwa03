@@ -33,15 +33,6 @@ A few months ago, I decided to move past standard tutorial projects and figure o
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetanwadhwa03&show_icons=true&theme=radical&hide_border=true" alt="Chetan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetanwadhwa03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-wadhwa-9174051a3/) 
