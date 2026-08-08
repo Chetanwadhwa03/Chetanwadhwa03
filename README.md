@@ -26,6 +26,14 @@ An event-driven RAG backend built to separate request handling from long-running
 - Designed the ingestion worker to handle upstream API rate limits gracefully rather than failing on burst load.
 - Implemented Redis Pub/Sub to broadcast streaming AI responses to the correct concurrent user, enabling the architecture to scale horizontally across workers.
 
+
+### GEO Auditor — Generative Engine Optimization Engine
+A diagnostic web application that evaluates and scores websites for Generative Engine Optimization (GEO). It bridges the gap between traditional SEO and AI search engines by auditing on-page semantic structures, AI crawler permissions, client-rendering dependencies, and LLM brand visibility.
+
+- Engineered a 100-point scoring algorithm evaluating 4 core technical pillars: Content Structure (30 pts), Crawlability (35 pts), LLM Access & Citation Visibility (20 pts), and Rendering/SSR (15 pts).
+- Built live DOM & crawler parsers in Node.js/Express to fetch and inspect live `robots.txt` AI agent directives (`GPTBot`, `ClaudeBot`, `CCBot`), `sitemap.xml` availability, H1–H6 heading hierarchies, and `JSON-LD` Schema.org entity markup.
+
+
 ### [Tunesta](https://tunesta.netlify.app/) — Cloud-Native Personal Music Library
 A media vault for personal audio storage with JWT-based identity management ensuring complete data isolation between users, backed by Cloudinary for persistent cloud storage.
 
