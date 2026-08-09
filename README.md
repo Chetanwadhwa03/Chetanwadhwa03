@@ -2,7 +2,7 @@
 
 Software Engineer focused on backend architecture and real-time systems. I work primarily with Node.js, Redis, and WebSockets — designing decoupled, event-driven services that stay responsive under concurrent load, and RAG pipelines that handle asynchronous, resource-heavy workloads without blocking the main thread.
 
-BASED IN INDIA
+BASED IN INDIA 
 
 [LinkedIn](https://www.linkedin.com/in/chetan-wadhwa-9174051a3/) · [chetanwadhwa03@gmail.com](mailto:chetanwadhwa03@gmail.com)
 
