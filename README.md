@@ -4,6 +4,9 @@ Software Engineer focused on backend architecture and real-time systems. I work 
 Recently created an autonomous agent which is my digital replica who knows "When to loop me in" instead of hallucinating.
 
 BASED IN INDIA 
+
+---
+Connect with me :
 [Portfolio](https://chetanwadhwa.vercel.app/) · 
 [LinkedIn](https://www.linkedin.com/in/chetan-wadhwa-9174051a3/) · [Mail](mailto:wadhwachetan33@gmail.com) ·
 [X (Previously Twitter) ](https://x.com/Chetanwadhwa03)  · [Youtube](https://www.youtube.com/@ChetanWadhwa03)
