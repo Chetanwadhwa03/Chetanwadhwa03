@@ -25,7 +25,7 @@ This is my AI digital replica who knows when to loop me in instead of hallucinat
 1. ***Anyone Wants to get in touch***
 2. ***If it does not have context related to something technical asked by someone***
 
-For detailed breakdown visit : ***https://github.com/Chetanwadhwa03/Digital-Replica***   
+The repo for it is private, because it has personal information.
 
 ### C-Flux — AI-Powered Document Assistant *(in progress)*
 An event-driven RAG backend built to separate request handling from long-running AI workloads. Ingestion, parsing, embedding etc. all of these heavy works running in background worker.
